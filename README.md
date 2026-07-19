@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Megat! 👋
 
-<!--
-**megat4w/megat4w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Malaysian IT Student passionate about mobile application development, clean system architecture, and leveraging modern tools to build functional software.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+* **Languages:** Dart, Java, CSS, HTML, SQL
+* **Frameworks:** Flutter
+* **Tools:** Git, GitHub, VS Code, AI-Assisted Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+* Deepening my understanding of Flutter state management and API integration.
+* Transitioning from code generation to deep mechanical understanding of application logic.
+* Documenting my learning journey through public repositories.
+
+## 📈 My GitHub Goals
+* Build projects with explicit attention to clean file structure.
+* Practice real-world collaborative workflows using Branches and Pull Requests.
